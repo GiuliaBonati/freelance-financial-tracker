@@ -8,7 +8,7 @@ The tracker combines income and expense management, invoice monitoring, tax and 
 
 ## Dashboard
 
-![Financial Tracker Dashboard](screenshots/dashboard.png)
+![Financial Tracker Dashboard](screenshots/dashboard.PNG)
 
 ## Key Features
 
@@ -40,7 +40,7 @@ The source code is available in [`scripts/financial-tracker.gs`](scripts/financi
 
 ## Invoice Management
 
-![Invoice Management](screenshots/invoices.png)
+![Invoice Management](screenshots/invoices.PNG)
 
 The invoice workflow provides an overview of issued invoices, payment status, tax reserves, and estimated net income.
 
@@ -48,7 +48,7 @@ Paid invoices can be synchronized automatically with the Income sheet through Go
 
 ## Forecasting
 
-![Financial Forecast](screenshots/forecast.png)
+![Financial Forecast](screenshots/forecast.PNG)
 
 The forecasting section supports forward-looking financial planning based on the data and assumptions configured in the tracker.
 
